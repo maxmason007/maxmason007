@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxmason007
 - 👀 I’m interested in interactive media design. Making people go 'Wow'.
-- 🌱 I’m currently learning HTML, CSS, Javascript & Node.
+- 🌱 I’m currently learning HTML, CSS, Javascript & React.
 - 💞️ I’m looking to collaborate on any project right now! 
 - 📫 How to reach me : masonmax@hotmail.co.uk
 
