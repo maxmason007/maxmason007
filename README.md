@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxmason007
-- 👀 I’m interested in interactive media design. Making people go 'Wow'.
-- 🌱 I’m currently learning Unity, HTML, CSS, Javascript & React.
+- 👀 I’m interested in XR tech for good.
+- 🌱 I’m currently learning Unity.
 - 💞️ I’m looking to collaborate on any project right now! 
 - 📫 How to reach me : masonmax@hotmail.co.uk
 
